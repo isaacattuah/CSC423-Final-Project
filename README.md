@@ -41,6 +41,7 @@ For **each employee** the following data will be stored: staff number (uniquely 
 - **Employees performs a Service**
     - An Employee perform multiple services (1..*)
     - A service is performed by mutliple employees (1..*)
+
 ![alt-text] (https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6f2e8833-df9f-456d-8ca9-76e198cfb3fd/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201204T095958Z&X-Amz-Expires=86400&X-Amz-Signature=833840ab87a6291da22a4d7ca6f9cccfe594bff2756dffb66ba39f3690a3cafb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 ![alt-text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9035e752-c400-413b-929e-e9046464b094/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201204T100035Z&X-Amz-Expires=86400&X-Amz-Signature=7df3f52ddbbbcf7db2d11aecb72cdfb1a2016395e2b105eeadaea70b3ef3985f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
@@ -178,7 +179,8 @@ iv.	**General constraints (if any).**
 
 ## Final Implementation
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b7086a86-0113-4e8b-9909-3439df62f1c6/ER_Diagrams-ER_Diagrams_2_(Landscape).jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b7086a86-0113-4e8b-9909-3439df62f1c6/ER_Diagrams-ER_Diagrams_2_(Landscape).jpg)
+![alt-text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b7086a86-0113-4e8b-9909-3439df62f1c6/ER_Diagrams-ER_Diagrams_2_%28Landscape%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201204T101437Z&X-Amz-Expires=86400&X-Amz-Signature=1ff4ebf07f990c262656f46b6709a7d1131d7db4ed8681187735a30ca197c801&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22ER_Diagrams-ER_Diagrams_2_%28Landscape%29.jpg%22)
+
 # Oracle DBMS Implementation
 
 `BusyBee.sql`
@@ -318,27 +320,27 @@ INSERT INTO DETERMINES VALUES(1,2,TO_DATE('2020-12-25','YYYY-MM-DD'),TO_DATE('20
 
 ### Client
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5dcb3951-fa5d-4d55-9025-941e0cdaa7ae/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5dcb3951-fa5d-4d55-9025-941e0cdaa7ae/Untitled.png)
+![alt-text](notion://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5dcb3951-fa5d-4d55-9025-941e0cdaa7ae%2FUntitled.png?table=block&id=9682f2fc-b4f4-44bf-af89-c7d5f9b472d9&width=3070&userId=7bc3442b-f692-408b-8d64-926dcb89e061&cache=v2)
 
 ### Employee
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/804bb1b1-c7db-41da-95e7-9da0cbe2718c/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/804bb1b1-c7db-41da-95e7-9da0cbe2718c/Untitled.png)
+![alt-text](notion://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F804bb1b1-c7db-41da-95e7-9da0cbe2718c%2FUntitled.png?table=block&id=0e995c12-669a-4d07-a27e-33ecc715dc18&width=1070&userId=7bc3442b-f692-408b-8d64-926dcb89e061&cache=v2)
 
 ### Service
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c1401d1-3199-4643-ad04-1b4dc4f1fb1c/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c1401d1-3199-4643-ad04-1b4dc4f1fb1c/Untitled.png)
+![alt-text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5c1401d1-3199-4643-ad04-1b4dc4f1fb1c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201204T101654Z&X-Amz-Expires=86400&X-Amz-Signature=06dc692486f7eac86b636b0e5ddedafdc26df42a15fde1b9669c4ecf6cf9cf15&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 ### Equipment
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2d87d6c0-2589-4260-a9c6-44e49f8fbf2a/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2d87d6c0-2589-4260-a9c6-44e49f8fbf2a/Untitled.png)
+![alt-text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2d87d6c0-2589-4260-a9c6-44e49f8fbf2a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201204T101813Z&X-Amz-Expires=86400&X-Amz-Signature=d10c099a0b1dcd9c16339ab1eafe390d60d0a4ed5e9b46ccca8366d44d9b575e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 ### Performs
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c4498843-ce16-49ad-871f-f4196b114d8d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c4498843-ce16-49ad-871f-f4196b114d8d/Untitled.png)
+![alt-text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c4498843-ce16-49ad-871f-f4196b114d8d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201204T101849Z&X-Amz-Expires=86400&X-Amz-Signature=6d1ee4e4b4165d27dae608f62f741cdfd9057771c924fe2f6cd6dcae6ec0cbda&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 ### Determines
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/22bea6ce-a3c6-4d3e-bcdb-84291b65aef2/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/22bea6ce-a3c6-4d3e-bcdb-84291b65aef2/Untitled.png)
+![alt-text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/22bea6ce-a3c6-4d3e-bcdb-84291b65aef2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201204T101955Z&X-Amz-Expires=86400&X-Amz-Signature=261a85bae779139a10ab95b7c1426b3c275d36b168be49e6f701df37663d209e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 ## Embedded SQL
 
@@ -367,11 +369,11 @@ WHERE(c.clientNo = s.clientNo AND s.serviceNo = d.serviceNo AND d.eqID = e.eqID)
 
 Run `connect_oracle.py`  to enjoy the experience
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/39e6afac-82bf-4440-b67e-94b4894f14cf/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/39e6afac-82bf-4440-b67e-94b4894f14cf/Untitled.png)
+![alt-text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/39e6afac-82bf-4440-b67e-94b4894f14cf/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201204T102025Z&X-Amz-Expires=86400&X-Amz-Signature=e14747cac356a145994055f84566953f936147f053445ba15315164aa752cfe2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 `Sample Test`
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f876ba4e-d8fc-48db-acfc-ee251d407ec1/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f876ba4e-d8fc-48db-acfc-ee251d407ec1/Untitled.png)
+![alt-text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f876ba4e-d8fc-48db-acfc-ee251d407ec1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201204T102201Z&X-Amz-Expires=86400&X-Amz-Signature=f9402febcda991c44beba2d703d03ff461a72754607d31a6f7365bf0bd02598f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 ### Acknowledgements
 
