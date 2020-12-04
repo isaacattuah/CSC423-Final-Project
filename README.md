@@ -42,7 +42,7 @@ For **each employee** the following data will be stored: staff number (uniquely 
     - An Employee perform multiple services (1..*)
     - A service is performed by mutliple employees (1..*)
 
-![alt-text] (https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6f2e8833-df9f-456d-8ca9-76e198cfb3fd/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201204T095958Z&X-Amz-Expires=86400&X-Amz-Signature=833840ab87a6291da22a4d7ca6f9cccfe594bff2756dffb66ba39f3690a3cafb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![alt-text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6f2e8833-df9f-456d-8ca9-76e198cfb3fd/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201204T095958Z&X-Amz-Expires=86400&X-Amz-Signature=833840ab87a6291da22a4d7ca6f9cccfe594bff2756dffb66ba39f3690a3cafb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 ![alt-text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9035e752-c400-413b-929e-e9046464b094/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201204T100035Z&X-Amz-Expires=86400&X-Amz-Signature=7df3f52ddbbbcf7db2d11aecb72cdfb1a2016395e2b105eeadaea70b3ef3985f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
