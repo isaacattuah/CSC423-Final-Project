@@ -1,5 +1,5 @@
 # CSC423-Final-Project
-A database final project based on the BusyBee Cleaning Company
+This database final project was assigned in CSC 423 by [Vanessa Aguiar-Pulido](https://vaguiarpulido.github.io/). Three projects were given and each student was tasked with doing one. I was assigned Case Study 2
 
 # Case Study 2: BusyBee Cleaning Company
 
