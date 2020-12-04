@@ -90,6 +90,7 @@ For **each employee** the following data will be stored: staff number (uniquely 
 ## Derived relations from the conceptual model.
 
 We give each attribute a unique name to prevent data from being misplaced. Additionally, for adjacent one-to-many relationships or zero-to-many relationships we will draw tables for the relations involved. These relations will include the parent keys from adjacent entities.
+![alt-key](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/57aafe8f-7853-4ee8-a357-621bc6259875/ER_Diagrams-ER_Diagrams_NO_FK.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201204T231657Z&X-Amz-Expires=86400&X-Amz-Signature=e3179e502d7becbc3b7351b6e39946ecb33009299cf488edc04406f2a2cd8fc4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22ER_Diagrams-ER_Diagrams_NO_FK.jpg%22)
 
 ## Normalization
 
