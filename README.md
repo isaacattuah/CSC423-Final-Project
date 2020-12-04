@@ -320,11 +320,11 @@ INSERT INTO DETERMINES VALUES(1,2,TO_DATE('2020-12-25','YYYY-MM-DD'),TO_DATE('20
 
 ### Client
 
-![alt-text](notion://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5dcb3951-fa5d-4d55-9025-941e0cdaa7ae%2FUntitled.png?table=block&id=9682f2fc-b4f4-44bf-af89-c7d5f9b472d9&width=3070&userId=7bc3442b-f692-408b-8d64-926dcb89e061&cache=v2)
+![alt-text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5dcb3951-fa5d-4d55-9025-941e0cdaa7ae/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201204T231400Z&X-Amz-Expires=86400&X-Amz-Signature=7cf0dcb8e9002bddc0fbbd8c2cb383c0f87b4f2db28f810c58c3d99a10e277e7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 ### Employee
 
-![alt-text](notion://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F804bb1b1-c7db-41da-95e7-9da0cbe2718c%2FUntitled.png?table=block&id=0e995c12-669a-4d07-a27e-33ecc715dc18&width=1070&userId=7bc3442b-f692-408b-8d64-926dcb89e061&cache=v2)
+![alt-text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/804bb1b1-c7db-41da-95e7-9da0cbe2718c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201204T231446Z&X-Amz-Expires=86400&X-Amz-Signature=5bd9f47c545b8497897be313856e14a749079e30c304039fd5b27853687365c8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 ### Service
 
